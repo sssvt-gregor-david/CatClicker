@@ -26,3 +26,4 @@ C:\Users\david\CatClicker\Clicker1\obj\Debug\Clicker1.exe.manifest
 C:\Users\david\CatClicker\Clicker1\obj\Debug\Clicker1.application
 C:\Users\david\CatClicker\Clicker1\obj\Debug\Clicker1.exe
 C:\Users\david\CatClicker\Clicker1\obj\Debug\Clicker1.pdb
+C:\Users\david\CatClicker\Clicker1\obj\Debug\Clicker1.TrustInfo.xml
