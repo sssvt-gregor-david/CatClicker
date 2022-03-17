@@ -22,7 +22,7 @@ namespace Clicker1.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace Clicker1.Properties {
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Clicker1.Properties.Resources", typeof(Resources).Assembly);
@@ -51,7 +51,7 @@ namespace Clicker1.Properties {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace Clicker1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream alarm {
+        public static System.IO.UnmanagedMemoryStream alarm {
             get {
                 return ResourceManager.GetStream("alarm", resourceCulture);
             }
@@ -72,7 +72,7 @@ namespace Clicker1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bigCatto {
+        public static System.Drawing.Bitmap bigCatto {
             get {
                 object obj = ResourceManager.GetObject("bigCatto", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -82,7 +82,7 @@ namespace Clicker1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap chineseCat {
+        public static System.Drawing.Bitmap chineseCat {
             get {
                 object obj = ResourceManager.GetObject("chineseCat", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -92,7 +92,7 @@ namespace Clicker1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream chineseSong {
+        public static System.IO.UnmanagedMemoryStream chineseSong {
             get {
                 return ResourceManager.GetStream("chineseSong", resourceCulture);
             }
@@ -101,7 +101,7 @@ namespace Clicker1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kitlerCat {
+        public static System.Drawing.Bitmap kitlerCat {
             get {
                 object obj = ResourceManager.GetObject("kitlerCat", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -111,7 +111,7 @@ namespace Clicker1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream meowSong {
+        public static System.IO.UnmanagedMemoryStream meowSong {
             get {
                 return ResourceManager.GetStream("meowSong", resourceCulture);
             }
@@ -120,7 +120,7 @@ namespace Clicker1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap politeCat {
+        public static System.Drawing.Bitmap politeCat {
             get {
                 object obj = ResourceManager.GetObject("politeCat", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -130,7 +130,7 @@ namespace Clicker1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap winterCat {
+        public static System.Drawing.Bitmap winterCat {
             get {
                 object obj = ResourceManager.GetObject("winterCat", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
